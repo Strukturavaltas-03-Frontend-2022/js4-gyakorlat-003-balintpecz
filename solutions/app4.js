@@ -41,3 +41,7 @@
 /**
  * TODO: exportáld ki helyesen a getCustomers függvényt!
  */
+
+export{
+    getCustomers
+}
